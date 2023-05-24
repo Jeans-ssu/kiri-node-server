@@ -10,7 +10,7 @@ const port = 3001;
 require("dotenv").config();
 
 const configuration = new Configuration({
-  organization: "org-siA2eUYDbKkNruBz9Xc8XDVu",
+  organization: "org-7unE3qksFvn3VcT494PaduJp",
   apiKey: process.env.CHATGPT_API,
 });
 
